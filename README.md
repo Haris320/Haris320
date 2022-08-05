@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
 <h3 align="center">A passionate software developer from New Jersey</h3>
 
-- 👨‍💻 Many of my projects are available in GitHub
+- 👨‍💻 Many of my projects are available in Repos
 
 - 💬 Ask me about **React, Android Studio, Unity**
 
